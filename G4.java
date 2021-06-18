@@ -1,6 +1,6 @@
-public Class G3{
+public Class G4{
 
-	public void getText1(){
-	
+	public void getText2(){
+	String str = "Text";
 	}
 }
